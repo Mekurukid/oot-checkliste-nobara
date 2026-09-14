@@ -1,0 +1,44 @@
+TECHNISCHE QUELLEN / 14. SEPTEMBER 2026
+===================================
+Nobara: Distribution und Desktop-Editionen
+https://nobaraproject.org/
+
+Nobara FAQ: Wayland, kein unterstuetzter X11-Weg, AppArmor
+https://wiki.nobaraproject.org/en/FAQ/FAQ
+
+Nobara: Installations- und Nutzungsleitfaden
+https://wiki.nobaraproject.org/en/new-user-guide-general-guidelines
+
+Freedesktop: Desktop-Eintraege, Exec und korrektes Quoting
+https://specifications.freedesktop.org/desktop-entry/latest/exec-variables.html
+
+Fedora: python3-Systeminterpreter und Standardbibliothek
+https://packages.fedoraproject.org/pkgs/python3.14/python3/
+
+Fedora: xdg-utils, Desktop-Integration und xdg-open
+https://packages.fedoraproject.org/pkgs/xdg-utils/xdg-utils/
+
+Python: isolierter Modus (-I)
+https://docs.python.org/3/using/cmdline.html#cmdoption-I
+
+CHECKLISTENQUELLEN (VOM NUTZER AUSGEWAEHLT)
+========================================
+Listenstruktur, Quellenverweise und Bildadressen aus der bisherigen
+OoT-Checklisten-App 2.1 wurden in diesem Start-Update beibehalten.
+Originaltexte und Bilder bleiben ihren jeweiligen Rechteinhabern zugeordnet.
+Die Quellen werden in der App pro Bereich und in jeder Galerie verlinkt.
+
+https://zeldachronicles.de/spiele/oot/herzen.php
+https://zeldachronicles.de/spiele/oot/skulltula.php
+https://zeldachronicles.de/spiele/oot/tausch.php
+https://zeldachronicles.de/spiele/oot/masken.php
+https://zeldachronicles.de/spiele/oot/nacht.php
+https://zeldachronicles.de/spiele/oot/feen.php
+https://zeldachronicles.de/spiele/oot/wundererbsen.php
+https://zeldachronicles.de/spiele/oot/flaschen.php
+https://zeldachronicles.de/spiele/oot/songs.php
+https://zeldachronicles.de/spiele/oot/upgrades.php
+
+Version 2.6: Die Fundortbeschreibungen/Voraussetzungen fuer Herzteile, Skulltulas, Tauschgeschaeft, Masken, Nachtschwaermer, Wundererbsen und Flaschen wurden anhand der vom Nutzer bereitgestellten Zelda-Europe-PDF-Guides praezisiert. Bilder bleiben aus den bereits eingetragenen Zelda-Chronicles-Quellen.
+
+Version 2.7: Die Kategorie "Ausruestung & Upgrades" wurde anhand des vom Nutzer bereitgestellten PDFs "Guide_OcarinaofTime_Ausruestung.pdf" mit genaueren Fundorten, Voraussetzungen und Schritt-fuer-Schritt-Beschreibungen ueberarbeitet.
